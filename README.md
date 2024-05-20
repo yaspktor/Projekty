@@ -9,3 +9,6 @@ Projekty:
 ## C#
 Projekty:
 * [CsChat](https://github.com/yaspktor/C-sharp-chat)
+## C++
+Projekty:
+* [Grafika Komputerowa](https://github.com/yaspktor/Grafika-Komputerowa)
